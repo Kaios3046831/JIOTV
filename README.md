@@ -13,20 +13,7 @@
 - HQ Streaming Free of Cost <br>
 - Will Works In 250, 400, 600, 800 in this Gives Qualities
 - Web Play Supports
-- TiviMate or PC Users can Also Use This [PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV/blob/main/playlist.m3u)
 
-<h3>😛 Generate ssoToken Here :</h3>
-
-- For This You Need JioID Number and Password
-
-[Jio Login Page] (http://jiologin.epizy.com)
- 
-- `user` = Username / Mobile No.
-- `pass` = Password
-
-
-<br>
-<h2>🍁 How To Use : </h2>
 
 #### ♢ Method 1 :
 
@@ -57,14 +44,8 @@
 <h3>🤗 Meet Me : </h3>
 
 
-• For any Support About Script contact [@TechieSneh]
-• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
-
-<br>
-
-
 ---
-<h4 align='center'>© 2021 Techie Sneh</h4>
+<h4 align='center'>© 2021 DOGARTV</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
 
